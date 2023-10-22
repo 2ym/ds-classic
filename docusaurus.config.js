@@ -60,7 +60,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/pcag_logo.png',
+          src: 'img/logo.png',
         },
         items: [
           {
